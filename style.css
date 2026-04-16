@@ -175,4 +175,10 @@ footer {
     #hero h1 { font-size: 1.5rem; }
     #hero p { font-size: 1.0rem; }
     nav ul { display: none; } /* Simplicidade para mobile */
+    .project-card a{
+       font-size: 1.2em;
+    }
+     .project-card a:hover{
+       color: var(--text-muted)
+    }
 }
